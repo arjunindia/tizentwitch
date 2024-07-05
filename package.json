@@ -1,0 +1,25 @@
+{
+  "name": "SamsungTwitch",
+  "appName": "SmartTV Client for Twitch",
+  "version": "4.0.1",
+  "main": "index.html",
+  "type": "module",
+  "packageType": "app",
+  "appPath": "index.html",
+  "keys": [
+    "MediaPlayPause",
+	"MediaRewind",
+"MediaFastForward",
+"MediaFastForward",
+"MediaPlay",
+"MediaPause",
+"ColorF0Red",
+"ColorF1Green",
+"ColorF2Yellow",
+"ColorF3Blue",
+"Info",
+"0","1","2","3","4","5","6","7","8","9","Minus"
+  ],
+  "description": "Twitch client for Samsung Smart TVs 2015 and newer models",
+  "author":"fgl27"
+}
